@@ -157,6 +157,10 @@ const ServiceSection = () => {
                   src={service.image}
                   alt={service.title}
                   className="absolute inset-0 w-full h-full object-cover"
+                  onError={(e) => {
+                    e.currentTarget.onerror = null;
+                    e.currentTarget.src = "/logo.avif"; // fallback logo
+                  }}
                 />
 
                 {/* Overlay */}
