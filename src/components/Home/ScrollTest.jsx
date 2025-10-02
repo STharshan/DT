@@ -5,22 +5,22 @@ import "aos/dist/aos.css";
 const testimonials = [
   {
     quote:
-      "Got a starlight headliner done from them and it was done quickly and to a high standard. Would highly recommend",
-    author: "EEVAN S",
+      "Danny has valeted both mine and my husband’s cars. He was punctual, works hard and does a very thorough job. Both cars were immaculate by the time Danny had finished working on them. We will definitely be booking him in the future.",
+    author: "Julia Ingham",
   },
   {
     quote:
-      "Toni and his team are lovely. Very friendly and worked well within the timeframe agreed and were very cost-effective. Absolutely recommend this team 👍.",
-    author: "RENOL K",
+      "Best in the buissness, only person I’d trust my car with. Danny’s attention to detail is second to none, look no further.",
+    author: "aaron yates",
   },
   {
-    quote: "Exceptional service! My car looks as good as new. Highly recommend!",
-    author: "KIRK S",
+    quote: "Amazing service! My car is always sparkling & smells so fresh. Always responds quickly & gets you booked in",
+    author: "kayley",
   },
   {
     quote:
-      "Fantastic service. Had my Range Rover serviced by these guys, quick turn around good pricing. Will definitely be a repeat customer",
-    author: "TARVINDER B",
+      "Used Dan a couple of months ago, brilliant service, advise and the hard work he put into making sure everything was perfect for me was unbelievable.",
+    author: "Steven King",
   },
 ];
 
